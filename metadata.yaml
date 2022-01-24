@@ -1,0 +1,27 @@
+_repo: The-Rider-of-the-Mohave_67186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fellom, James
+    alias: Fellon, James
+    gutenberg_agent_id: '54004'
+    url: http://www.gutenberg.org/2009/agents/54004
+description: ''
+gutenberg_issued: '2022-01-17'
+identifiers:
+  gutenberg: '67186'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435053951299
+pgterms:marc905: 20211005220251fellom
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :A. L. Burt Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Rider of the Mohave
+url: http://www.gutenberg.org/ebooks/67186
