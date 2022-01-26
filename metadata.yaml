@@ -1,5 +1,8 @@
 _repo: The-Rider-of-the-Mohave_67186
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67186-h/images/cover.jpg
 creator:
   author:
     agent_name: Fellom, James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '54004'
     url: http://www.gutenberg.org/2009/agents/54004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67186#The-Rider-of-the-Mohave
 gutenberg_issued: '2022-01-17'
 identifiers:
   gutenberg: '67186'
